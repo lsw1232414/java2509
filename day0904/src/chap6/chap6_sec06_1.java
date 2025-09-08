@@ -1,9 +1,9 @@
-package chap6_sec06;
+package chap6;
 
-public class CarExample {
+public class chap6_sec06_1 {
 	public static void main(String[] args) {
 		//Car 객체 생성
-		Car myCar = new Car();
+		chap6_sec06 myCar = new chap6_sec06();
 		
 		//Car 객체의 필드 값 읽기
 		System.out.println("모델명: " + myCar.model);
