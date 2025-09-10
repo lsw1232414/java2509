@@ -11,7 +11,7 @@ public class chap6_sec08 {
 		System.out.println("result1: " + result1);
 		
 		int x = 10;
-		int y = 4;
+		int y = 4; 
 		
 		double result2 = myCalc.divide(x,y);
 		System.out.println("result2: " + result2);
